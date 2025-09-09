@@ -14,7 +14,7 @@ A Python utility that prevents Microsoft Teams from going inactive by simulating
 ## Requirements
 
 ### System Dependencies
-- **Linux**: This script is designed for Linux systems using X11
+- **Linux**: This script is designed for Linux systems using X11 or XWayland
 - **xdotool**: Required for simulating mouse and keyboard input
 
 ### Python Dependencies
